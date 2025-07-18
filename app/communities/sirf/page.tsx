@@ -44,20 +44,17 @@ export default function SIRFPage() {
     {
       title: "Quantum Machine Learning Framework",
       description: "A comprehensive framework for implementing quantum machine learning algorithms on NISQ devices.",
-      author: "Dr. Elena Vasquez",
-      date: "2024-01-18",
+      
     },
     {
       title: "Distributed AI Training Platform",
       description: "Scalable platform for training large language models across distributed computing clusters.",
-      author: "Prof. James Liu",
-      date: "2024-01-12",
+     
     },
     {
       title: "Blockchain-based Identity System",
       description: "Decentralized identity management system using zero-knowledge proofs for privacy preservation.",
-      author: "Dr. Amara Johnson",
-      date: "2024-01-08",
+    
     },
   ]
 
@@ -144,7 +141,7 @@ export default function SIRFPage() {
                 <h4 className="text-xl font-bold mb-2 text-purple-300">{project.title}</h4>
                 <p className="text-gray-300 mb-4">{project.description}</p>
                 <div className="flex justify-between items-center text-sm text-gray-400">
-                  <span>By {project.author}</span>
+                  <span>  {project.author}</span>
                   <span>{project.date}</span>
                 </div>
               </motion.div>
