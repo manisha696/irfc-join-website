@@ -37,20 +37,17 @@ export default function EIRFPage() {
     {
       title: "Smart IoT Sensor Network",
       description: "Advanced sensor network for environmental monitoring with edge computing capabilities.",
-      author: "Dr. Sarah Chen",
-      date: "2024-01-15",
+      
     },
     {
       title: "Quantum Circuit Optimization",
       description: "Novel approaches to optimizing quantum circuits for better performance and reduced noise.",
-      author: "Prof. Michael Rodriguez",
-      date: "2024-01-10",
+     
     },
     {
       title: "Neuromorphic Computing Chip",
       description: "Brain-inspired computing architecture for ultra-low power AI applications.",
-      author: "Dr. Aisha Patel",
-      date: "2024-01-05",
+      
     },
   ]
 
