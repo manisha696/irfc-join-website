@@ -134,7 +134,7 @@ export default function EIRFPage() {
                 <h4 className="text-xl font-bold mb-2 text-blue-300">{project.title}</h4>
                 <p className="text-gray-300 mb-4">{project.description}</p>
                 <div className="flex justify-between items-center text-sm text-gray-400">
-                  <span>By {project.author}</span>
+                  <span>  {project.author}</span>
                   <span>{project.date}</span>
                 </div>
               </motion.div>
