@@ -151,9 +151,9 @@ export default function ContactPage() {
           >
             <h3 className="text-2xl font-bold mb-4 text-purple-400">Other Ways to Reach Us</h3>
             <div className="space-y-2 text-gray-300">
-              <p>Email: info@irfc.org</p>
-              <p>Phone: +1 (555) 123-4567</p>
-              <p>Address: 123 Innovation Drive, Tech City, TC 12345</p>
+              <p>Email: innovationresearchforum@gmail.com</p>
+              <p>Phone: +91 9420793608</p>
+              <p>Address: Nashik - Maharashtra</p>
             </div>
           </motion.div>
         </motion.div>
